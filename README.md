@@ -50,7 +50,7 @@ Enter the full path to the directory (e.g., /home/ubuntu/logs): /app/logs
 
 The script will:
 - ✅ Generate a `summary.txt` file with log insights
-- 📆 Create `logs_archive.tar.gz` (if you're inside Linux/Docker)
+- 📆 Create `logs_archive.tar.gz` (inside the container in pwd)
 
 ---
 
