@@ -1,0 +1,100 @@
+2025-03-27 09:31:48,960: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 6 task(s)
+2025-03-27 09:31:48,966: name-app_worker.app: func-result[104]: INFO:  Websocket connected successfully.
+2025-03-27 09:31:48,966: name-app_worker.app: func-result[109]: INFO:  Joined Room successfully.
+2025-03-27 09:31:48,966: name-app_worker.app: func-result[114]: INFO:  Message Emitted Successfully.
+2025-03-27 09:31:49,005: name-app_worker.app: func-result[74]: INFO:  Connected to server with event : ['ack', 'Client added']
+2025-03-27 09:31:49,006: name-app_worker.app: func-result[75]: INFO:  Entered room with event : ['ack', 'Client added']
+2025-03-27 09:31:49,006: name-app_worker.app: func-result[78]: INFO:  emitting result
+2025-03-27 09:31:49,186: name-__main__: func-execute_task[90]: INFO:  Updating service job ca2609ae-480f-3ba4-bc95-46e16b548e80 (slot 1) to: ca2609ae-480f-3ba4-bc95-46e16b548e80
+2025-03-27 09:31:49,613: name-app_worker.app: func-execute_task[727]: INFO:  Executing task: result (4c9771c9-488a-3a5f-a299-010ec7b3c6aa) in result-scanner (job d44cc4ad-d408-431e-b8ea-0cac34807c58) published by frontend
+2025-03-27 09:31:49,669: name-__main__: func-<module>[150]: INFO:  Updating service job 09799020-7a57-3d6a-830d-7d1dc34df76a (slot 2) to: 09799020-7a57-3d6a-830d-7d1dc34df76a
+2025-03-27 09:31:49,669: name-app_worker.app: func-get_queue_length[864]: INFO:  Getting length for queue_name: result-frontend-test-test
+2025-03-27 09:31:49,701: name-app_worker.app: func-result[46]: INFO:  result-scanner - Got result. {'job_id': 'd44cc4ad-d408-431e-b8ea-0cac34807c58', 'task_id': '4c9771c9-488a-3a5f-a299-010ec7b3c6aa', 'enterprise_id': 'core', 'role': 'admin', 'user_id': None, 'task': 'result', 'result_to': 'generate_response', 'service': 'conversation_dev', 'publisher': 'frontend', 'published_timestamp': 1743067908.3532655, 'start_timestamp': 1743067908.3873503, 'end_timestamp': 1743067909.5302336, 'result_queue_token': 'zohra_avatar_fwjf_hyjo', 'result': {'placeholder': 'Could you please let me know the name of the car manufacturer you would like to express your interest in?', 'intent': 'india_auto_bot_car_enquiry_flow', 'message_id': '22ece5f6-a761-3976-906f-de52c828f6b0', 'engagement_id': 'b550790b-850c-3cba-9ce1-d685e8436ae6', 'data': {'goto': ['india_auto_bot_fetch_manufacturer_flow_agent']}, 'reply_to': '49251613-30d2-3d35-86b9-84a005c77da5', 'index': 1, '_is_last': False, 'process_time': 6.5975847244262695}, 'index': 0}
+2025-03-27 09:31:49,795: name-app_worker.app: func-result[74]: INFO:  Connected to server with event : ['ack', 'Client added']
+2025-03-27 09:31:49,796: name-app_worker.app: func-result[75]: INFO:  Entered room with event : ['ack', 'Client added']
+2025-03-27 09:31:49,796: name-app_worker.app: func-result[78]: INFO:  emitting result
+2025-03-27 09:31:49,815: name-app_worker.app: func-result[81]: INFO:  Message recieve acknowledgement from server with event : ['rack', 'result recieved']
+2025-03-27 09:31:49,815: name-app_worker.app: func-result[99]: INFO:  General Disconnect.
+2025-03-27 09:31:49,834: name-app_worker.app: func-result[104]: INFO:  Websocket connected successfully.
+2025-03-27 09:31:49,835: name-app_worker.app: func-result[109]: INFO:  Joined Room successfully.
+2025-03-27 09:31:49,835: name-app_worker.app: func-result[114]: INFO:  Message Emitted Successfully.
+2025-03-27 09:31:49,894: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 6 task(s)
+2025-03-27 09:31:50,043: name-__main__: func-execute_task[90]: INFO:  Updating service job 09799020-7a57-3d6a-830d-7d1dc34df76a (slot 2) to: 09799020-7a57-3d6a-830d-7d1dc34df76a
+2025-03-27 09:31:59,006: name-app_worker.app: func-result[87]: ERROR:  
+2025-03-27 09:31:59,007: name-app_worker.app: func-result[88]: INFO:  Socket timed out retyring.
+2025-03-27 09:31:59,007: name-app_worker.app: func-result[89]: INFO:  input queue - input-result-scanner
+2025-03-27 09:31:59,038: name-app_worker.app: func-create_async_task[412]: INFO:  Task retry_result created under service result-scanner-retry (-test) with job_id bc225675-39c0-3761-ae83-23143b4c4974 in 0.0312957763671875 secs.
+2025-03-27 09:31:59,132: name-app_worker.app: func-result[99]: INFO:  General Disconnect.
+2025-03-27 09:31:59,152: name-app_worker.app: func-result[104]: INFO:  Websocket connected successfully.
+2025-03-27 09:31:59,152: name-app_worker.app: func-result[109]: INFO:  Joined Room successfully.
+2025-03-27 09:31:59,152: name-app_worker.app: func-result[116]: INFO:  Emitting message failed
+2025-03-27 09:31:59,357: name-__main__: func-execute_task[90]: INFO:  Updating service job 09799020-7a57-3d6a-830d-7d1dc34df76a (slot 2) to: 09799020-7a57-3d6a-830d-7d1dc34df76a
+2025-03-27 09:32:00,037: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:32:00,038: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:32:10,143: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:32:10,143: name-__main__: func-<module>[161]: INFO:  No tasks since 20.37242603302002 secs
+2025-03-27 09:32:10,179: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:32:10,179: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:32:10,200: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:32:20,345: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:32:20,346: name-__main__: func-<module>[161]: INFO:  No tasks since 30.574862241744995 secs
+2025-03-27 09:32:20,559: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:32:20,559: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:32:20,579: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:32:23,474: name-app_worker.app: func-verify_job_dict[446]: ERROR:  Task log (dd02620a-b49d-4790-be3d-119660066dae) is not a valid task in this module conversation_dev
+2025-03-27 09:32:23,716: name-__main__: func-<module>[150]: INFO:  Updating service job ca2609ae-480f-3ba4-bc95-46e16b548e80 (slot 1) to: ca2609ae-480f-3ba4-bc95-46e16b548e80
+2025-03-27 09:32:23,716: name-app_worker.app: func-get_queue_length[864]: INFO:  Getting length for queue_name: result-frontend-test-test
+2025-03-27 09:32:23,753: name-__main__: func-execute_task[90]: INFO:  Updating service job ca2609ae-480f-3ba4-bc95-46e16b548e80 (slot 1) to: ca2609ae-480f-3ba4-bc95-46e16b548e80
+2025-03-27 09:32:23,931: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:32:24,748: name-app_worker.app: func-execute_task[727]: INFO:  Executing task: result (dd0caabf-41f4-32d9-9e2b-5b417a262f55) in result-scanner (job 331305e6-7415-42bf-a2f1-2fd673961d3c) published by frontend
+2025-03-27 09:32:24,804: name-__main__: func-<module>[150]: INFO:  Updating service job ca2609ae-480f-3ba4-bc95-46e16b548e80 (slot 1) to: ca2609ae-480f-3ba4-bc95-46e16b548e80
+2025-03-27 09:32:24,804: name-app_worker.app: func-get_queue_length[864]: INFO:  Getting length for queue_name: result-frontend-test-test
+2025-03-27 09:32:25,012: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 7 task(s)
+2025-03-27 09:32:25,136: name-app_worker.app: func-result[46]: INFO:  result-scanner - Got result. {'job_id': '331305e6-7415-42bf-a2f1-2fd673961d3c', 'task_id': 'dd0caabf-41f4-32d9-9e2b-5b417a262f55', 'enterprise_id': 'core', 'role': 'admin', 'user_id': None, 'task': 'result', 'result_to': 'generate_response', 'service': 'conversation_dev', 'publisher': 'frontend', 'published_timestamp': 1743067943.470179, 'start_timestamp': 1743067943.5596592, 'end_timestamp': 1743067944.658757, 'result_queue_token': 'zohra_avatar_fwjf_hyjo', 'result': {'placeholder': 'I am sorry the manufacturer which your looking for is not available currently would you be interested in any other manufacturer?', 'intent': 'india_auto_bot_car_enquiry_flow', 'message_id': '696e1a23-b2b3-350c-8abd-49ca55966e96', 'engagement_id': 'b550790b-850c-3cba-9ce1-d685e8436ae6', 'data': {'goto': ['india_auto_bot_fetch_manufacturer_flow_agent']}, 'reply_to': '0c5fddd7-1d30-3451-9cea-4bfea15b7249', 'index': 1, '_is_last': True, 'process_time': 10.458044528961182}, 'index': 0}
+2025-03-27 09:32:25,244: name-app_worker.app: func-result[74]: INFO:  Connected to server with event : ['ack', 'Client added']
+2025-03-27 09:32:25,244: name-app_worker.app: func-result[75]: INFO:  Entered room with event : ['ack', 'Client added']
+2025-03-27 09:32:25,244: name-app_worker.app: func-result[78]: INFO:  emitting result
+2025-03-27 09:32:25,268: name-app_worker.app: func-result[81]: INFO:  Message recieve acknowledgement from server with event : ['rack', 'result recieved']
+2025-03-27 09:32:25,268: name-app_worker.app: func-result[99]: INFO:  General Disconnect.
+2025-03-27 09:32:25,292: name-app_worker.app: func-result[104]: INFO:  Websocket connected successfully.
+2025-03-27 09:32:25,293: name-app_worker.app: func-result[109]: INFO:  Joined Room successfully.
+2025-03-27 09:32:25,293: name-app_worker.app: func-result[114]: INFO:  Message Emitted Successfully.
+2025-03-27 09:32:25,503: name-__main__: func-execute_task[90]: INFO:  Updating service job ca2609ae-480f-3ba4-bc95-46e16b548e80 (slot 1) to: ca2609ae-480f-3ba4-bc95-46e16b548e80
+2025-03-27 09:32:35,122: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:32:35,123: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:32:45,256: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:32:45,256: name-__main__: func-<module>[161]: INFO:  No tasks since 20.34339666366577 secs
+2025-03-27 09:32:45,299: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:32:45,299: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:32:45,320: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:32:55,422: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:32:55,422: name-__main__: func-<module>[161]: INFO:  No tasks since 30.509623765945435 secs
+2025-03-27 09:32:55,650: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:32:55,650: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:32:55,671: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:33:05,970: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:33:05,971: name-__main__: func-<module>[161]: INFO:  No tasks since 41.05809283256531 secs
+2025-03-27 09:33:06,200: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:33:06,200: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:33:06,222: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:33:16,323: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:33:16,324: name-__main__: func-<module>[161]: INFO:  No tasks since 51.41103982925415 secs
+2025-03-27 09:33:16,542: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:33:16,542: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:33:16,562: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:33:26,676: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:33:26,676: name-__main__: func-<module>[161]: INFO:  No tasks since 61.76336455345154 secs
+2025-03-27 09:33:26,903: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:33:26,903: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:33:26,931: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:33:37,091: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:33:37,091: name-__main__: func-<module>[161]: INFO:  No tasks since 72.17822241783142 secs
+2025-03-27 09:33:37,299: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:33:37,299: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:33:37,319: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:33:47,438: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:33:47,438: name-__main__: func-<module>[161]: INFO:  No tasks since 82.52571392059326 secs
+2025-03-27 09:33:47,645: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:33:47,645: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:33:47,668: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:33:57,842: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now

@@ -1,0 +1,100 @@
+2025-03-27 09:31:08,316: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 7 task(s)
+2025-03-27 09:31:08,348: name-app_worker.app: func-execute_task[727]: INFO:  Executing task: result (9a90c357-f8b9-3e72-8ec6-e9d40cab8f22) in result-scanner (job 20697451-80ee-41b2-8c90-0556e6252b7d) published by frontend
+2025-03-27 09:31:08,445: name-__main__: func-<module>[150]: INFO:  Updating service job 09799020-7a57-3d6a-830d-7d1dc34df76a (slot 2) to: 09799020-7a57-3d6a-830d-7d1dc34df76a
+2025-03-27 09:31:08,445: name-app_worker.app: func-get_queue_length[864]: INFO:  Getting length for queue_name: result-frontend-test-test
+2025-03-27 09:31:08,700: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 6 task(s)
+2025-03-27 09:31:08,732: name-app_worker.app: func-execute_task[727]: INFO:  Executing task: result (56d1efb8-fad4-322f-8208-2ecb6bbec774) in result-scanner (job 20697451-80ee-41b2-8c90-0556e6252b7d) published by frontend
+2025-03-27 09:31:08,818: name-__main__: func-<module>[150]: INFO:  Updating service job bd890ef2-3e38-3b96-8d88-2c735533b1e0 (slot 3) to: bd890ef2-3e38-3b96-8d88-2c735533b1e0
+2025-03-27 09:31:08,819: name-app_worker.app: func-get_queue_length[864]: INFO:  Getting length for queue_name: result-frontend-test-test
+2025-03-27 09:31:08,879: name-app_worker.app: func-result[46]: INFO:  result-scanner - Got result. {'job_id': '20697451-80ee-41b2-8c90-0556e6252b7d', 'task_id': '4aa878db-a3a7-44df-a710-10a41e68ff6f', 'enterprise_id': '', 'role': None, 'user_id': None, 'task': 'result', 'result_to': 'converse', 'service': 'conversation_dev', 'publisher': 'frontend', 'published_timestamp': 1743067860.977619, 'start_timestamp': 1743067860.977619, 'end_timestamp': 1743067867.922167, 'result_queue_token': 'zohra_avatar_fwjf_hyjo', 'result': {'intent': 'llm_response', 'message_id': '564a7373-4b8a-3fa2-816f-a3f34b43a74a', 'count': 3, 'is_last': True}, 'index': 0}
+2025-03-27 09:31:08,987: name-app_worker.app: func-result[74]: INFO:  Connected to server with event : ['ack', 'Client added']
+2025-03-27 09:31:08,987: name-app_worker.app: func-result[75]: INFO:  Entered room with event : ['ack', 'Client added']
+2025-03-27 09:31:08,987: name-app_worker.app: func-result[78]: INFO:  emitting result
+2025-03-27 09:31:09,007: name-app_worker.app: func-result[81]: INFO:  Message recieve acknowledgement from server with event : ['rack', 'result recieved']
+2025-03-27 09:31:09,007: name-app_worker.app: func-result[99]: INFO:  General Disconnect.
+2025-03-27 09:31:09,026: name-app_worker.app: func-result[104]: INFO:  Websocket connected successfully.
+2025-03-27 09:31:09,026: name-app_worker.app: func-result[109]: INFO:  Joined Room successfully.
+2025-03-27 09:31:09,026: name-app_worker.app: func-result[114]: INFO:  Message Emitted Successfully.
+2025-03-27 09:31:09,051: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 5 task(s)
+2025-03-27 09:31:09,083: name-app_worker.app: func-execute_task[727]: INFO:  Executing task: result (f690af25-3d34-36b3-816d-c5a19f2f2600) in result-scanner (job 20697451-80ee-41b2-8c90-0556e6252b7d) published by frontend
+2025-03-27 09:31:09,158: name-__main__: func-<module>[150]: INFO:  Updating service job bc79e1db-e8fc-3f90-8806-36e27282d537 (slot 4) to: bc79e1db-e8fc-3f90-8806-36e27282d537
+2025-03-27 09:31:09,158: name-app_worker.app: func-get_queue_length[864]: INFO:  Getting length for queue_name: result-frontend-test-test
+2025-03-27 09:31:09,218: name-app_worker.app: func-result[46]: INFO:  result-scanner - Got result. {'job_id': '20697451-80ee-41b2-8c90-0556e6252b7d', 'task_id': '56d1efb8-fad4-322f-8208-2ecb6bbec774', 'enterprise_id': 'core', 'role': 'admin', 'user_id': None, 'task': 'result', 'result_to': 'generate_response', 'service': 'conversation_dev', 'publisher': 'frontend', 'published_timestamp': 1743067867.242831, 'start_timestamp': 1743067867.2775922, 'end_timestamp': 1743067868.6421351, 'result_queue_token': 'zohra_avatar_fwjf_hyjo', 'result': {'placeholder': ' Welcome to Indian Auto Bot.', 'intent': 'llm_response', 'message_id': '3eeaa15c-0c39-3bb3-b359-ef3e7d02f787', 'engagement_id': 'b550790b-850c-3cba-9ce1-d685e8436ae6', 'reply_to': '564a7373-4b8a-3fa2-816f-a3f34b43a74a', 'index': 2, '_is_last': False, 'process_time': 6.647870302200317}, 'index': 0}
+2025-03-27 09:31:09,256: name-app_worker.app: func-result[46]: INFO:  result-scanner - Got result. {'job_id': '20697451-80ee-41b2-8c90-0556e6252b7d', 'task_id': '9a90c357-f8b9-3e72-8ec6-e9d40cab8f22', 'enterprise_id': 'core', 'role': 'admin', 'user_id': None, 'task': 'result', 'result_to': 'generate_response', 'service': 'conversation_dev', 'publisher': 'frontend', 'published_timestamp': 1743067866.8857324, 'start_timestamp': 1743067866.9197714, 'end_timestamp': 1743067868.0822835, 'result_queue_token': 'zohra_avatar_fwjf_hyjo', 'result': {'placeholder': 'Hello!', 'intent': 'llm_response', 'message_id': 'f7498c38-10ad-31e0-b321-086b20fd0e40', 'engagement_id': 'b550790b-850c-3cba-9ce1-d685e8436ae6', 'reply_to': '564a7373-4b8a-3fa2-816f-a3f34b43a74a', 'index': 1, '_is_last': False, 'process_time': 6.088134050369263}, 'index': 0}
+2025-03-27 09:31:09,293: name-__main__: func-execute_task[90]: INFO:  Updating service job ca2609ae-480f-3ba4-bc95-46e16b548e80 (slot 1) to: ca2609ae-480f-3ba4-bc95-46e16b548e80
+2025-03-27 09:31:09,319: name-app_worker.app: func-execute_task[727]: INFO:  Executing task: result (4aa878db-a3a7-44df-a710-10a41e68ff6f) in result-scanner (job 20697451-80ee-41b2-8c90-0556e6252b7d) published by frontend
+2025-03-27 09:31:09,325: name-app_worker.app: func-result[74]: INFO:  Connected to server with event : ['ack', 'Client added']
+2025-03-27 09:31:09,325: name-app_worker.app: func-result[75]: INFO:  Entered room with event : ['ack', 'Client added']
+2025-03-27 09:31:09,326: name-app_worker.app: func-result[78]: INFO:  emitting result
+2025-03-27 09:31:09,346: name-app_worker.app: func-result[81]: INFO:  Message recieve acknowledgement from server with event : ['rack', 'result recieved']
+2025-03-27 09:31:09,346: name-app_worker.app: func-result[99]: INFO:  General Disconnect.
+2025-03-27 09:31:09,359: name-app_worker.app: func-result[74]: INFO:  Connected to server with event : ['ack', 'Client added']
+2025-03-27 09:31:09,359: name-app_worker.app: func-result[75]: INFO:  Entered room with event : ['ack', 'Client added']
+2025-03-27 09:31:09,359: name-app_worker.app: func-result[78]: INFO:  emitting result
+2025-03-27 09:31:09,367: name-app_worker.app: func-result[104]: INFO:  Websocket connected successfully.
+2025-03-27 09:31:09,367: name-app_worker.app: func-result[109]: INFO:  Joined Room successfully.
+2025-03-27 09:31:09,367: name-app_worker.app: func-result[114]: INFO:  Message Emitted Successfully.
+2025-03-27 09:31:09,399: name-__main__: func-<module>[150]: INFO:  Updating service job bc79e1db-e8fc-3f90-8806-36e27282d537 (slot 4) to: bc79e1db-e8fc-3f90-8806-36e27282d537
+2025-03-27 09:31:09,399: name-app_worker.app: func-get_queue_length[864]: INFO:  Getting length for queue_name: result-frontend-test-test
+2025-03-27 09:31:09,512: name-app_worker.app: func-result[46]: INFO:  result-scanner - Got result. {'job_id': '20697451-80ee-41b2-8c90-0556e6252b7d', 'task_id': 'f690af25-3d34-36b3-816d-c5a19f2f2600', 'enterprise_id': 'core', 'role': 'admin', 'user_id': None, 'task': 'result', 'result_to': 'generate_response', 'service': 'conversation_dev', 'publisher': 'frontend', 'published_timestamp': 1743067867.5422528, 'start_timestamp': 1743067867.5754132, 'end_timestamp': 1743067868.7322352, 'result_queue_token': 'zohra_avatar_fwjf_hyjo', 'result': {'placeholder': ' Which car can I assist you with today?', 'intent': 'llm_response', 'message_id': '2cb7d685-685a-3fef-9265-b14f4d9a6f71', 'engagement_id': 'b550790b-850c-3cba-9ce1-d685e8436ae6', 'reply_to': '564a7373-4b8a-3fa2-816f-a3f34b43a74a', 'index': 3, '_is_last': False, 'process_time': 6.7380900382995605}, 'index': 0}
+2025-03-27 09:31:09,593: name-__main__: func-execute_task[90]: INFO:  Updating service job bd890ef2-3e38-3b96-8d88-2c735533b1e0 (slot 3) to: bd890ef2-3e38-3b96-8d88-2c735533b1e0
+2025-03-27 09:31:09,622: name-app_worker.app: func-result[74]: INFO:  Connected to server with event : ['ack', 'Client added']
+2025-03-27 09:31:09,623: name-app_worker.app: func-result[75]: INFO:  Entered room with event : ['ack', 'Client added']
+2025-03-27 09:31:09,623: name-app_worker.app: func-result[78]: INFO:  emitting result
+2025-03-27 09:31:09,637: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 5 task(s)
+2025-03-27 09:31:09,644: name-app_worker.app: func-result[81]: INFO:  Message recieve acknowledgement from server with event : ['rack', 'result recieved']
+2025-03-27 09:31:09,644: name-app_worker.app: func-result[99]: INFO:  General Disconnect.
+2025-03-27 09:31:09,666: name-app_worker.app: func-result[104]: INFO:  Websocket connected successfully.
+2025-03-27 09:31:09,667: name-app_worker.app: func-result[109]: INFO:  Joined Room successfully.
+2025-03-27 09:31:09,667: name-app_worker.app: func-result[114]: INFO:  Message Emitted Successfully.
+2025-03-27 09:31:09,741: name-app_worker.app: func-result[46]: INFO:  result-scanner - Got result. {'job_id': '20697451-80ee-41b2-8c90-0556e6252b7d', 'task_id': '4aa878db-a3a7-44df-a710-10a41e68ff6f', 'enterprise_id': '', 'role': None, 'user_id': None, 'task': 'result', 'result_to': 'converse', 'service': 'conversation_dev', 'publisher': 'frontend', 'published_timestamp': 1743067860.977619, 'start_timestamp': 1743067860.977619, 'end_timestamp': 1743067868.8544393, 'result_queue_token': 'zohra_avatar_fwjf_hyjo', 'result': {'engagement_id': 'b550790b-850c-3cba-9ce1-d685e8436ae6', 'reply_to': '564a7373-4b8a-3fa2-816f-a3f34b43a74a', '_is_last': True, 'total_count': 3}, 'index': 1}
+2025-03-27 09:31:09,853: name-app_worker.app: func-result[74]: INFO:  Connected to server with event : ['ack', 'Client added']
+2025-03-27 09:31:09,853: name-app_worker.app: func-result[75]: INFO:  Entered room with event : ['ack', 'Client added']
+2025-03-27 09:31:09,853: name-app_worker.app: func-result[78]: INFO:  emitting result
+2025-03-27 09:31:09,878: name-app_worker.app: func-result[81]: INFO:  Message recieve acknowledgement from server with event : ['rack', 'result recieved']
+2025-03-27 09:31:09,878: name-app_worker.app: func-result[99]: INFO:  General Disconnect.
+2025-03-27 09:31:09,901: name-app_worker.app: func-result[104]: INFO:  Websocket connected successfully.
+2025-03-27 09:31:09,901: name-app_worker.app: func-result[109]: INFO:  Joined Room successfully.
+2025-03-27 09:31:09,901: name-app_worker.app: func-result[114]: INFO:  Message Emitted Successfully.
+2025-03-27 09:31:09,921: name-__main__: func-execute_task[90]: INFO:  Updating service job bc79e1db-e8fc-3f90-8806-36e27282d537 (slot 4) to: bc79e1db-e8fc-3f90-8806-36e27282d537
+2025-03-27 09:31:10,189: name-__main__: func-execute_task[90]: INFO:  Updating service job bc79e1db-e8fc-3f90-8806-36e27282d537 (slot 4) to: bc79e1db-e8fc-3f90-8806-36e27282d537
+2025-03-27 09:31:19,360: name-app_worker.app: func-result[87]: ERROR:  
+2025-03-27 09:31:19,360: name-app_worker.app: func-result[88]: INFO:  Socket timed out retyring.
+2025-03-27 09:31:19,360: name-app_worker.app: func-result[89]: INFO:  input queue - input-result-scanner
+2025-03-27 09:31:19,395: name-app_worker.app: func-create_async_task[412]: INFO:  Task retry_result created under service result-scanner-retry (-test) with job_id 2f9f29b1-dcd2-3ed0-afdb-c17a8aad8273 in 0.034127235412597656 secs.
+2025-03-27 09:31:19,498: name-app_worker.app: func-result[99]: INFO:  General Disconnect.
+2025-03-27 09:31:19,519: name-app_worker.app: func-result[104]: INFO:  Websocket connected successfully.
+2025-03-27 09:31:19,519: name-app_worker.app: func-result[109]: INFO:  Joined Room successfully.
+2025-03-27 09:31:19,519: name-app_worker.app: func-result[116]: INFO:  Emitting message failed
+2025-03-27 09:31:19,780: name-__main__: func-execute_task[90]: INFO:  Updating service job 09799020-7a57-3d6a-830d-7d1dc34df76a (slot 2) to: 09799020-7a57-3d6a-830d-7d1dc34df76a
+2025-03-27 09:31:19,790: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:31:19,791: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:31:29,902: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:31:29,902: name-__main__: func-<module>[161]: INFO:  No tasks since 20.372939586639404 secs
+2025-03-27 09:31:29,944: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:31:29,944: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:31:29,975: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:31:40,089: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:31:40,089: name-__main__: func-<module>[161]: INFO:  No tasks since 30.55953288078308 secs
+2025-03-27 09:31:40,337: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:31:40,338: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:31:40,361: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:31:47,857: name-app_worker.app: func-verify_job_dict[446]: ERROR:  Task log (a90567c0-8875-46bb-bac4-8a736d2ed559) is not a valid task in this module conversation_dev
+2025-03-27 09:31:48,152: name-__main__: func-<module>[150]: INFO:  Updating service job ca2609ae-480f-3ba4-bc95-46e16b548e80 (slot 1) to: ca2609ae-480f-3ba4-bc95-46e16b548e80
+2025-03-27 09:31:48,152: name-app_worker.app: func-get_queue_length[864]: INFO:  Getting length for queue_name: result-frontend-test-test
+2025-03-27 09:31:48,177: name-__main__: func-execute_task[90]: INFO:  Updating service job ca2609ae-480f-3ba4-bc95-46e16b548e80 (slot 1) to: ca2609ae-480f-3ba4-bc95-46e16b548e80
+2025-03-27 09:31:48,367: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:31:48,397: name-app_worker.app: func-execute_task[727]: INFO:  Executing task: result (a90567c0-8875-46bb-bac4-8a736d2ed559) in result-scanner (job d44cc4ad-d408-431e-b8ea-0cac34807c58) published by frontend
+2025-03-27 09:31:48,460: name-__main__: func-<module>[150]: INFO:  Updating service job ca2609ae-480f-3ba4-bc95-46e16b548e80 (slot 1) to: ca2609ae-480f-3ba4-bc95-46e16b548e80
+2025-03-27 09:31:48,460: name-app_worker.app: func-get_queue_length[864]: INFO:  Getting length for queue_name: result-frontend-test-test
+2025-03-27 09:31:48,662: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 7 task(s)
+2025-03-27 09:31:48,693: name-app_worker.app: func-execute_task[727]: INFO:  Executing task: result (a90567c0-8875-46bb-bac4-8a736d2ed559) in result-scanner (job d44cc4ad-d408-431e-b8ea-0cac34807c58) published by frontend
+2025-03-27 09:31:48,755: name-__main__: func-<module>[150]: INFO:  Updating service job 09799020-7a57-3d6a-830d-7d1dc34df76a (slot 2) to: 09799020-7a57-3d6a-830d-7d1dc34df76a
+2025-03-27 09:31:48,755: name-app_worker.app: func-get_queue_length[864]: INFO:  Getting length for queue_name: result-frontend-test-test
+2025-03-27 09:31:48,831: name-app_worker.app: func-result[46]: INFO:  result-scanner - Got result. {'job_id': 'd44cc4ad-d408-431e-b8ea-0cac34807c58', 'task_id': 'a90567c0-8875-46bb-bac4-8a736d2ed559', 'enterprise_id': '', 'role': None, 'user_id': None, 'task': 'result', 'result_to': 'converse', 'service': 'conversation_dev', 'publisher': 'frontend', 'published_timestamp': 1743067901.576674, 'start_timestamp': 1743067901.576674, 'end_timestamp': 1743067907.8553314, 'result_queue_token': 'zohra_avatar_fwjf_hyjo', 'result': {'intent': 'llm_response', 'message_id': '49251613-30d2-3d35-86b9-84a005c77da5', 'count': 1, 'is_last': True}, 'index': 0}
+2025-03-27 09:31:48,911: name-app_worker.app: func-result[46]: INFO:  result-scanner - Got result. {'job_id': 'd44cc4ad-d408-431e-b8ea-0cac34807c58', 'task_id': 'a90567c0-8875-46bb-bac4-8a736d2ed559', 'enterprise_id': '', 'role': None, 'user_id': None, 'task': 'result', 'result_to': 'converse', 'service': 'conversation_dev', 'publisher': 'frontend', 'published_timestamp': 1743067901.576674, 'start_timestamp': 1743067901.576674, 'end_timestamp': 1743067908.6038592, 'result_queue_token': 'zohra_avatar_fwjf_hyjo', 'result': {'engagement_id': 'b550790b-850c-3cba-9ce1-d685e8436ae6', 'reply_to': '49251613-30d2-3d35-86b9-84a005c77da5', '_is_last': True, 'total_count': 1}, 'index': 1}
+2025-03-27 09:31:48,926: name-app_worker.app: func-result[74]: INFO:  Connected to server with event : ['ack', 'Client added']
+2025-03-27 09:31:48,926: name-app_worker.app: func-result[75]: INFO:  Entered room with event : ['ack', 'Client added']
+2025-03-27 09:31:48,926: name-app_worker.app: func-result[78]: INFO:  emitting result
+2025-03-27 09:31:48,947: name-app_worker.app: func-result[81]: INFO:  Message recieve acknowledgement from server with event : ['rack', 'result recieved']
+2025-03-27 09:31:48,947: name-app_worker.app: func-result[99]: INFO:  General Disconnect.

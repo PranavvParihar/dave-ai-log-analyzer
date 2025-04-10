@@ -1,0 +1,145 @@
+2025-03-27 09:33:57,842: name-__main__: func-<module>[161]: INFO:  No tasks since 92.92977452278137 secs
+2025-03-27 09:33:58,090: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:33:58,090: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:33:58,111: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:34:08,222: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:34:08,222: name-__main__: func-<module>[161]: INFO:  No tasks since 103.30956506729126 secs
+2025-03-27 09:34:08,539: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:34:08,539: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:34:08,560: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:34:18,694: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:34:18,694: name-__main__: func-<module>[161]: INFO:  No tasks since 113.78155279159546 secs
+2025-03-27 09:34:18,937: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:34:18,937: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:34:18,959: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:34:29,110: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:34:29,110: name-__main__: func-<module>[161]: INFO:  No tasks since 124.19765591621399 secs
+2025-03-27 09:34:29,343: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:34:29,344: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:34:29,364: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:34:39,489: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:34:39,489: name-__main__: func-<module>[161]: INFO:  No tasks since 134.5761308670044 secs
+2025-03-27 09:34:39,747: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:34:39,747: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:34:39,772: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:34:49,884: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:34:49,884: name-__main__: func-<module>[161]: INFO:  No tasks since 144.9714217185974 secs
+2025-03-27 09:34:50,189: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:34:50,189: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:34:50,214: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:35:00,350: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:35:00,350: name-__main__: func-<module>[161]: INFO:  No tasks since 155.43770670890808 secs
+2025-03-27 09:35:00,580: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:35:00,580: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:35:00,609: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:35:10,727: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:35:10,727: name-__main__: func-<module>[161]: INFO:  No tasks since 165.81436109542847 secs
+2025-03-27 09:35:10,981: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:35:10,981: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:35:11,008: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:35:21,148: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:35:21,149: name-__main__: func-<module>[161]: INFO:  No tasks since 176.23590064048767 secs
+2025-03-27 09:35:21,358: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:35:21,359: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:35:21,380: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:35:31,485: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:35:31,485: name-__main__: func-<module>[161]: INFO:  No tasks since 186.57254481315613 secs
+2025-03-27 09:35:31,744: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:35:31,745: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:35:31,764: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:35:41,894: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:35:41,894: name-__main__: func-<module>[161]: INFO:  No tasks since 196.98183822631836 secs
+2025-03-27 09:35:42,133: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:35:42,133: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:35:42,155: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:35:52,266: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:35:52,266: name-__main__: func-<module>[161]: INFO:  No tasks since 207.3533399105072 secs
+2025-03-27 09:35:52,525: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:35:52,525: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:35:52,547: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:36:02,681: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:36:02,681: name-__main__: func-<module>[161]: INFO:  No tasks since 217.76814699172974 secs
+2025-03-27 09:36:02,973: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:36:02,974: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:36:02,995: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:36:13,117: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:36:13,117: name-__main__: func-<module>[161]: INFO:  No tasks since 228.2044756412506 secs
+2025-03-27 09:36:13,336: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:36:13,336: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:36:13,358: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:36:23,482: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:36:23,483: name-__main__: func-<module>[161]: INFO:  No tasks since 238.57006978988647 secs
+2025-03-27 09:36:24,532: name-app_helpers: func-print_error[546]: ERROR:  Traceback (most recent call last):
+  File "/root/helpers/app_worker/src/app_worker/app_db_helper.py", line 121, in _execute
+    cur.execute(command, tuple(values))
+  File "/usr/local/lib/python3.10/dist-packages/psycopg/cursor.py", line 97, in execute
+    raise ex.with_traceback(None)
+psycopg.errors.IdleInTransactionSessionTimeout: terminating connection due to idle-in-transaction timeout
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/helpers/app_worker/src/app_worker/app_db_helper.py", line 99, in connect
+    self.connection = psycopg.connect(self.db_url, connect_timeout = 5, tcp_user_timeout = 30, keepalives_idle = 5)
+  File "/usr/local/lib/python3.10/dist-packages/psycopg/connection.py", line 119, in connect
+    raise last_ex.with_traceback(None)
+psycopg.OperationalError: connection failed: connection to server at "127.0.0.1", port 6543 failed: server closed the connection unexpectedly
+        This probably means the server terminated abnormally
+        before or while processing the request.
+
+2025-03-27 09:36:24,532: name-app_helpers: func-print_error[548]: ERROR:  connection failed: connection to server at "127.0.0.1", port 6543 failed: server closed the connection unexpectedly
+        This probably means the server terminated abnormally
+        before or while processing the request.
+2025-03-27 09:36:24,533: name-app_helpers: func-print_error[546]: ERROR:  Traceback (most recent call last):
+  File "/root/helpers/app_worker/src/app_worker/app_db_helper.py", line 121, in _execute
+    cur.execute(command, tuple(values))
+  File "/usr/local/lib/python3.10/dist-packages/psycopg/cursor.py", line 97, in execute
+    raise ex.with_traceback(None)
+psycopg.errors.IdleInTransactionSessionTimeout: terminating connection due to idle-in-transaction timeout
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/helpers/app_worker/src/app_worker/app_db_helper.py", line 99, in connect
+    self.connection = psycopg.connect(self.db_url, connect_timeout = 5, tcp_user_timeout = 30, keepalives_idle = 5)
+  File "/usr/local/lib/python3.10/dist-packages/psycopg/connection.py", line 119, in connect
+    raise last_ex.with_traceback(None)
+psycopg.OperationalError: connection failed: connection to server at "127.0.0.1", port 6543 failed: server closed the connection unexpectedly
+        This probably means the server terminated abnormally
+        before or while processing the request.
+
+2025-03-27 09:36:24,533: name-app_helpers: func-print_error[548]: ERROR:  Error with connecting to DB, please contact admin.
+2025-03-27 09:36:24,533: name-app_worker.app_helpers: func-print_error[546]: ERROR:  Traceback (most recent call last):
+  File "/root/helpers/app_worker/src/app_worker/app_db_helper.py", line 121, in _execute
+    cur.execute(command, tuple(values))
+  File "/usr/local/lib/python3.10/dist-packages/psycopg/cursor.py", line 97, in execute
+    raise ex.with_traceback(None)
+psycopg.errors.IdleInTransactionSessionTimeout: terminating connection due to idle-in-transaction timeout
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/helpers/app_worker/src/app_worker/app_db_helper.py", line 99, in connect
+    self.connection = psycopg.connect(self.db_url, connect_timeout = 5, tcp_user_timeout = 30, keepalives_idle = 5)
+  File "/usr/local/lib/python3.10/dist-packages/psycopg/connection.py", line 119, in connect
+    raise last_ex.with_traceback(None)
+psycopg.OperationalError: connection failed: connection to server at "127.0.0.1", port 6543 failed: server closed the connection unexpectedly
+        This probably means the server terminated abnormally
+        before or while processing the request.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/helpers/app_worker/src/worker.py", line 162, in <module>
+    logger.info("Current worker count: %s ", module.app.SERVICE_CONNECTION.get_worker(service_id, {}).get('worker_count', 0))
+  File "/root/helpers/app_worker/src/app_worker/app_db_helper.py", line 329, in get_worker
+    return self.get('service_worker', id, 'service_id', default)
+  File "/root/helpers/app_worker/src/app_worker/app_db_helper.py", line 238, in get
+    return self.execute_read(command, values, default = default)
+  File "/root/helpers/app_worker/src/app_worker/app_db_helper.py", line 193, in execute_read
+    res = self._execute(cur, command, params, retries)
+  File "/root/helpers/app_worker/src/app_worker/app_db_helper.py", line 143, in _execute
+    self.connect()
+  File "/root/helpers/app_worker/src/app_worker/app_db_helper.py", line 108, in connect
+    raise DatabaseError("Error with connecting to DB, please contact admin.")
+app_db_helper.DatabaseError: Error with connecting to DB, please contact admin.

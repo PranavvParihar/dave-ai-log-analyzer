@@ -1,0 +1,100 @@
+2025-03-27 09:27:53,118: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:27:53,138: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:28:03,275: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:28:03,276: name-__main__: func-<module>[161]: INFO:  No tasks since 62.602296113967896 secs
+2025-03-27 09:28:03,604: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:28:03,604: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:28:03,646: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:28:13,784: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:28:13,784: name-__main__: func-<module>[161]: INFO:  No tasks since 73.11076188087463 secs
+2025-03-27 09:28:14,026: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:28:14,026: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:28:14,046: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:28:24,197: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:28:24,197: name-__main__: func-<module>[161]: INFO:  No tasks since 83.52417469024658 secs
+2025-03-27 09:28:24,442: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:28:24,442: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:28:24,463: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:28:34,621: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:28:34,622: name-__main__: func-<module>[161]: INFO:  No tasks since 93.94826984405518 secs
+2025-03-27 09:28:34,864: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:28:34,865: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:28:34,885: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:28:45,023: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:28:45,023: name-__main__: func-<module>[161]: INFO:  No tasks since 104.3498420715332 secs
+2025-03-27 09:28:45,290: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:28:45,291: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:28:45,320: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:28:55,474: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:28:55,474: name-__main__: func-<module>[161]: INFO:  No tasks since 114.80046057701111 secs
+2025-03-27 09:28:55,709: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:28:55,709: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:28:55,729: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:29:05,881: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:29:05,882: name-__main__: func-<module>[161]: INFO:  No tasks since 125.20838212966919 secs
+2025-03-27 09:29:06,107: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:29:06,108: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:29:06,132: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:29:16,247: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:29:16,248: name-__main__: func-<module>[161]: INFO:  No tasks since 135.5743429660797 secs
+2025-03-27 09:29:16,453: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:29:16,454: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:29:16,474: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:29:26,605: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:29:26,605: name-__main__: func-<module>[161]: INFO:  No tasks since 145.93195843696594 secs
+2025-03-27 09:29:26,805: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:29:26,805: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:29:26,824: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:29:36,941: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:29:36,942: name-__main__: func-<module>[161]: INFO:  No tasks since 156.26839923858643 secs
+2025-03-27 09:29:37,179: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:29:37,179: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:29:37,198: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:29:47,298: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:29:47,298: name-__main__: func-<module>[161]: INFO:  No tasks since 166.624614238739 secs
+2025-03-27 09:29:47,522: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:29:47,522: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:29:47,543: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:29:57,662: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:29:57,662: name-__main__: func-<module>[161]: INFO:  No tasks since 176.9888460636139 secs
+2025-03-27 09:29:57,899: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:29:57,899: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:29:57,919: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:30:08,025: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:30:08,025: name-__main__: func-<module>[161]: INFO:  No tasks since 187.35168528556824 secs
+2025-03-27 09:30:08,304: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:30:08,304: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:30:08,328: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:30:18,440: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:30:18,440: name-__main__: func-<module>[161]: INFO:  No tasks since 197.76692080497742 secs
+2025-03-27 09:30:18,668: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:30:18,669: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:30:18,691: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:30:28,877: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:30:28,877: name-__main__: func-<module>[161]: INFO:  No tasks since 208.20371890068054 secs
+2025-03-27 09:30:29,132: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:30:29,133: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:30:29,154: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:30:39,274: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:30:39,274: name-__main__: func-<module>[161]: INFO:  No tasks since 218.60064840316772 secs
+2025-03-27 09:30:39,479: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:30:39,480: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:30:39,500: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:30:49,800: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:30:49,800: name-__main__: func-<module>[161]: INFO:  No tasks since 229.12682557106018 secs
+2025-03-27 09:30:50,114: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:30:50,114: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:30:50,139: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:31:00,316: name-backends.sqs_backend: func-listen[189]: INFO:  No more messages in queue result-frontend-test for now
+2025-03-27 09:31:00,316: name-__main__: func-<module>[161]: INFO:  No tasks since 239.6427342891693 secs
+2025-03-27 09:31:00,564: name-__main__: func-<module>[162]: INFO:  Current worker count: 3 
+2025-03-27 09:31:00,564: name-__main__: func-<module>[163]: INFO:  Minimum worker count: 100 
+2025-03-27 09:31:00,586: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:31:06,888: name-app_worker.app: func-verify_job_dict[446]: ERROR:  Task log (4aa878db-a3a7-44df-a710-10a41e68ff6f) is not a valid task in this module conversation_dev
+2025-03-27 09:31:07,137: name-__main__: func-<module>[150]: INFO:  Updating service job ca2609ae-480f-3ba4-bc95-46e16b548e80 (slot 1) to: ca2609ae-480f-3ba4-bc95-46e16b548e80
+2025-03-27 09:31:07,138: name-app_worker.app: func-get_queue_length[864]: INFO:  Getting length for queue_name: result-frontend-test-test
+2025-03-27 09:31:07,181: name-__main__: func-execute_task[90]: INFO:  Updating service job ca2609ae-480f-3ba4-bc95-46e16b548e80 (slot 1) to: ca2609ae-480f-3ba4-bc95-46e16b548e80
+2025-03-27 09:31:07,378: name-__main__: func-<module>[144]: INFO:  Now listening to queue: result-frontend-test in service: result-scanner for 8 task(s)
+2025-03-27 09:31:07,955: name-app_worker.app: func-execute_task[727]: INFO:  Executing task: result (4aa878db-a3a7-44df-a710-10a41e68ff6f) in result-scanner (job 20697451-80ee-41b2-8c90-0556e6252b7d) published by frontend
+2025-03-27 09:31:08,027: name-__main__: func-<module>[150]: INFO:  Updating service job ca2609ae-480f-3ba4-bc95-46e16b548e80 (slot 1) to: ca2609ae-480f-3ba4-bc95-46e16b548e80
+2025-03-27 09:31:08,027: name-app_worker.app: func-get_queue_length[864]: INFO:  Getting length for queue_name: result-frontend-test-test
