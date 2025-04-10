@@ -94,7 +94,5 @@ Error Count: 2
 
 ## 🤊 Author
 
-Made with 💻 by **Pranav** & ChatGPT 🚀  
-For questions, suggestions, or PRs — you're welcome anytime!
-
+💻 Made by **Pranav** & ChatGPT 🚀  
 ---
